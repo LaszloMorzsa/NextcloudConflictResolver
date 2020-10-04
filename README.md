@@ -12,5 +12,5 @@ There are two option:
 
 Example for recursive call with target path:
 
-    java -jar Conflicted-replacer.jar -r -p c:\Users\user\Documents\
+    java -jar ConflictResolver.jar -r -p c:\Users\user\Documents\
 
